@@ -1,0 +1,55 @@
+.footer {
+    background: url('imagenesreact/bg.jpg');
+    color: #fff;
+    padding: 40px;
+    text-align: center;
+    position: relative;
+    margin-top: auto;
+  }
+  
+  .imagenlogo {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .imagenfondo {
+    padding: 100px;
+    text-align: center;
+    margin-left: auto;
+  }
+  
+  .footer-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 50%;
+    object-fit: cover; 
+    z-index: -1; 
+  }
+  
+.facebook-icon {
+  font-size: 100px; 
+}
+
+#footer .social-media-icons .facebook-icon {
+  font-size: 24px; 
+}
+
+
+.Whatsapp-icon {
+  font-size: 100px; 
+}
+
+#footer .social-media-icons .whatsapp-icon {
+  font-size: 24px; 
+}
+
+  
+.instagram-icon {
+  font-size: 100px;
+}
+
+#footer .social-media-icons .instagram-icon {
+  font-size: 30px;
+}

@@ -1,0 +1,12 @@
+.image-caja {
+    width: 100px;
+    height: 100px;
+    background-color: #eef3f0;
+    background-size: cover;
+    background-position: center;
+    width: auto;
+    height: 400px;
+    color: #f2f2f2;
+    background-image: url('imagenesreact/foondob.png');
+    
+  }
